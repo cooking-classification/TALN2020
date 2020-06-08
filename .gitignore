@@ -1,0 +1,7 @@
+# Virtual environment common names
+env
+venv
+.env
+
+# Data
+**/data/*
